@@ -1,0 +1,7 @@
+# Herramientas portables y compilados
+app/.tools/
+app/out/
+# Datos personales y bitacoras
+estado/
+app/CONTEXTO-BUSQUEDA-EMPLEO.md
+*.log
